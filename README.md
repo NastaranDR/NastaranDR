@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=500&duration=3000&pause=1200&color=FFC83D&width=500&height=60&lines=For+AI+solutions;For+Backend+development;For+scalable+applications;For+deep+learning+and+data+science;For+mentorship+and+growth)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=500&duration=3000&pause=1200&color=FFC83D&width=500&height=60&lines=For+AI+solutions;For+Backend+development;For+scalable+applications;For+deep+learning;For+mentorship+and+growth)](https://git.io/typing-svg)
 
-## ## Hi I'm Nastaran Darabi 👋
+## Hi I'm Nastaran Darabi 👋
 
 🎓 **Computer Engineering Graduate** from **Lorestan University**
 💡 Interested and active in the field of **Artificial Intelligence**
@@ -59,12 +59,12 @@ Feel free to reach out via the following platforms:
 ---
 
 <p align="center">
-  🚀 I’m always open to collaborating on **AI projects**, **Backend development**, or **data-driven applications**. Let’s build something amazing together!
+  🚀 I’m always open to collaborating on  AI projects, Backend development, or data-driven applications. Let’s build something amazing together!
 </p>
 
 ---
 
 <p align="center">
-  🌟 **Explore my repositories** and feel free to contribute or ask questions. I’m always happy to help with any challenges you might be facing!
+  🌟 Explore my repositories and feel free to contribute or ask questions. I’m always happy to help with any challenges you might be facing!
 </p>
 
