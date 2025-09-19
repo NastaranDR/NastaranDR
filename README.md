@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **NastaranDR/NastaranDR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +16,7 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=500&duration=3000&pause=1200&color=FFC83D&width=500&height=60&lines=For+AI+solutions;For+Backend+development;For+scalable+applications;For+deep+learning+and+data+science;For+mentorship+and+growth)](https://git.io/typing-svg)
 
-## I'm Nastaran Darabi
+## ## Hi I'm Nastaran Darabi 👋
 
 🎓 **Computer Engineering Graduate** from **Lorestan University**
 💡 Interested and active in the field of **Artificial Intelligence**
