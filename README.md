@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ### ✨ About Me
 
-I'm **Nastaran Darabi**, a **Computer Engineering graduate** with a strong focus on **Artificial Intelligence (AI)**. My journey in AI has been both exciting and challenging, and I'm continually evolving my skills in **Machine Learning**, **Data Science**, and **Computer Vision**. I'm passionate about applying AI to solve real-world problems.
+I'm **Nastaran Darabi**, a **Computer Engineering graduate** with a strong focus on **Artificial Intelligence (AI)**. My journey in AI has been both exciting and challenging, and I'm continually evolving my skills in **Machine Learning**, **Data Science** and  **Reinforcement Learning** . I'm passionate about applying AI to solve real-world problems.
 
 In addition to my AI pursuits, I also work as a **Backend Developer**, primarily using **Python** and **Django**. I enjoy building scalable and efficient backend systems that power modern applications.
 
