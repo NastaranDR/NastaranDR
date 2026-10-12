@@ -59,7 +59,7 @@ In addition to my AI pursuits, I also work as a **Backend Developer**, primarily
 Feel free to reach out via the following platforms:
 
 - 📧 **Email**: [nastaran81dr@gmail.com](mailto:nastaran81dr@gmail.com)
-- 💬 **Telegram**: [@da_rabi](https://t.me/da_rabi)
+- 💬 **Telegram**: [@da_rabi](https://t.me/N_dbi)
 
 ---
 
