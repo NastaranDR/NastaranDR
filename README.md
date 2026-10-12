@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 
 ## Hi I'm Nastaran Darabi 👋
 
-🎓 **Computer Engineering Graduate** from **Lorestan University**
-💡 Interested and active in the field of **Artificial Intelligence**
+🎓 **B.Sc. Graduate in Computer Engineering** from **Lorestan University** | **M.Sc. Student in Artificial Intelligence** at **Malayer University**
+🔬 **Artificial Intelligence Researcher**
+💡 Interested and active in the field of **Reinforcement Learning**
 💻 Backend developer focusing on **Python** and **Django**
 
 ---
