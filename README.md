@@ -46,6 +46,10 @@ In addition to my AI pursuits, I also work as a **Backend Developer**, primarily
 - **Git & GitHub**
 - **Docker**
 - **RESTful APIs**
+- **PyTorch**
+- **TensorFlow / Keras**
+- **Gym / Gymnasium**
+- **Scikit-learn**
 
 ---
 
